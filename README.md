@@ -9,8 +9,9 @@ This Project demonstrates a simple registration and login system implemented usi
 4. import font awesome and bootstrap from a nodemodules in an index.js file.
 5. React Router DOM is the routing library to implement dynamic routing in a web app so use npm install react-router-dom
 6. API's Request 
-    GET - GET
-    CREATE - POST
+    1.GET - GET
+   
+    2.CREATE - POST
 
 ## Features
 
